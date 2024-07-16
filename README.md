@@ -32,6 +32,7 @@ pip install PyQt5
   - Word count
   - Character count (with spaces)
   - Character count (without spaces)
+
 ![Screenshot](screenshot.png)
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
